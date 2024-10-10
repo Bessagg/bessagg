@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/pt-BR/view/surprised-shocked-funny-memes-gif-2651717394134726385" width="200"/>
+  <div class="tenor-gif-embed" data-postid="2651717394134726385" data-share-method="host" data-aspect-ratio="0.618474" data-width="100%"><a href="https://tenor.com/view/surprised-shocked-funny-memes-gif-2651717394134726385">Surprised Shocked GIF</a>from <a href="https://tenor.com/search/surprised-gifs">Surprised GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rafael-bessa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +14,7 @@
 ### 👨‍💻: About Me :
 Data Scients | ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://https://www.invisual.com.br/)
+- :telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://www.invisual.com.br/)
 
 
 - :computer: I'm also doing a master in predicting material porosity with AI at [UnB-PCMEC](http://pcmec.unb.br/index.php/pt/)
