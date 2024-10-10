@@ -9,7 +9,7 @@
   </div>
 </div>
 
-![til](./app/assets/surprised-shocked.gif)
+![til](./assets/surprised-shocked.gif)
 
 
 ### 👨‍💻: About Me :
