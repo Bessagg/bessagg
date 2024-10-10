@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="2651717394134726385" data-share-method="host" data-aspect-ratio="0.618474" data-width="100%"><a href="https://tenor.com/view/surprised-shocked-funny-memes-gif-2651717394134726385">Surprised Shocked GIF</a>from <a href="https://tenor.com/search/surprised-gifs">Surprised GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="./assets/surprised-shocked.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rafael-bessa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
