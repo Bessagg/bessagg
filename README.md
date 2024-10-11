@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <img src="./assets/suprised-shocked.gif" alt="Surprised Shocked GIF" width="300"/>
-  <div id="badges">
+  <img src="assets/suprised-shocked.gif" alt="Surprised Shocked GIF" width="300"/>
+    <div id="badges">
     <a href="https://www.linkedin.com/in/rafael-bessa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  
