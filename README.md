@@ -11,7 +11,7 @@
 </div>
 
 
-### 👨‍💻: About Me :
+### 👨‍💻About Me
 Data Scients | ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://www.invisual.com.br/)
