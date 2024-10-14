@@ -44,6 +44,3 @@ Data Scients | ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**francescapalermo/francescapalermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
