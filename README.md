@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/Bessagg/bessagg/tree/main/assets/surprised-shocked.gif" alt="Gorilla Side Eye GIF" width="150"/>
+    <img src="https://github.com/Bessagg/bessagg/blob/main/assets/surprised-shocked.gif?raw=true" alt="Gorilla Side Eye GIF" width="150"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/rafael-bessa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
