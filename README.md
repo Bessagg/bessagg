@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/rafael-bessa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://bessagg.github.io">
+    <a href="[https://bessagg.github.io](https://bessagg.github.io/academicpages.github.io//)">
       <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
