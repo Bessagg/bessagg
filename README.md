@@ -1,4 +1,16 @@
-<div id="header" align="center"> <img src="https://raw.githubusercontent.com/Bessagg/bessagg/refs/heads/main/assets/surprised-shocked.gif" alt="Gorilla Side Eye GIF" width="100"/> <div id="badges"> <a href="https://www.linkedin.com/in/rafael-bessa"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://bessagg.github.io"> <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" alt="Website Badge"/> </a> </div> </div>
+<div id="header" style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="https://raw.githubusercontent.com/Bessagg/bessagg/refs/heads/main/assets/surprised-shocked.gif" alt="Gorilla Side Eye GIF" width="100"/>
+  </div>
+  <div id="badges" style="display: flex; flex-direction: column; gap: 8px;">
+    <a href="https://www.linkedin.com/in/rafael-bessa">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://bessagg.github.io">
+      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" alt="Website Badge"/>
+    </a>
+  </div>
+</div>
 
 
 
