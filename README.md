@@ -1,14 +1,21 @@
-<div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/Bessagg/bessagg/refs/heads/main/assets/surprised-shocked.gif" alt="Gorilla Side Eye GIF" width="100"/>
-    <div id="badges">
+<div id="header" style="display: flex; align-items: center; justify-content: center;">
+  <!-- GIF on the left -->
+  <img src="https://raw.githubusercontent.com/Bessagg/bessagg/refs/heads/main/assets/surprised-shocked.gif" 
+       alt="Gorilla Side Eye GIF" width="100" style="margin-right: 20px;"/>
+
+  <!-- Badges on the right -->
+  <div id="badges" style="display: flex; flex-direction: column; gap: 10px;">
     <a href="https://www.linkedin.com/in/rafael-bessa">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+           alt="LinkedIn Badge"/>
     </a>  
     <a href="https://bessagg.github.io">
-      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" 
+           alt="Website Badge"/>
     </a>
   </div>
 </div>
+
 
 
 ### 👨‍💻About Me
