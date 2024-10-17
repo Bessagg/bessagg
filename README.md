@@ -1,10 +1,10 @@
-<div id="header" style="display: flex; align-items: center; justify-content: center;">
+<div id="header" style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
   <!-- GIF on the left -->
   <img src="https://raw.githubusercontent.com/Bessagg/bessagg/refs/heads/main/assets/surprised-shocked.gif" 
-       alt="Gorilla Side Eye GIF" width="100" style="margin-right: 20px;"/>
+       alt="Gorilla Side Eye GIF" width="100"/>
 
-  <!-- Badges on the right -->
-  <div id="badges" style="display: flex; flex-direction: column; gap: 10px;">
+  <!-- Badges on the right, horizontally aligned -->
+  <div id="badges" style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/rafael-bessa">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
            alt="LinkedIn Badge"/>
